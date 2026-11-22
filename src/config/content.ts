@@ -43,10 +43,11 @@ export const content: RootConfig = {
     greeting: "My dearest NIKKUUUUU,",
     paragraphs: [
       "I wanted to create something quiet and intentional to tell you how truly sorry I am. Words in a passing conversation don't always carry the weight and sincerity of what I feel inside, and you deserve more than hurried excuses.",
-      "I know I hurt you, and seeing you upset because of something I did or said weighs so heavily on my heart. You mean so much to me, and preserving the gentleness and trust between us is something I never want to take for granted.",
+      "I know mene tume hurt kiya, and seeing you upset because of something I did or said weighs so heavily on my heart. You mean so much to me, and preserving the gentleness and trust between us is something I never want to take for granted never ever.",
       "I am not asking to erase what happened with a single gesture, but I genuinely want to understand, listen, and grow together. I hope this little space brings a soft smile to your face and shows you how precious you are to me.",
+      "I Love you so much meri nikku...",
     ],
-    signature: "With all my love and sincerity, Your ASH",
+    signature: "With all my love and my dil, Tumara ASH",
     postscript:
       "P.S. There is a little surprise waiting for you if you look closely along the way...",
   },
@@ -339,26 +340,26 @@ export const content: RootConfig = {
 
   sweetCards: {
     title: "Notes From My Heart",
-    subtitle: "Tap each card to unlock a little thought I hold dear",
+    subtitle: "Har ak card ko tap krna jaan mene piche apne dil ke thoughts like tumare liye",
     cards: [
       {
         id: "c1",
-        title: "To My Safe Haven",
+        title: "Meri Safe place ho tum",
         message:
-          "Whenever the world feels overwhelming, thinking of you brings an instant sense of calm.",
+          "Jab bhi mere sath kuch bura hota , m direct tumare pas ata sb btane and mera dil akdm light hojata , fir tumari god m nini milti.",
         backMessage:
-          "You are my safe harbor, and I will always strive to be yours.",
+          "Tum meri Freefire ki safe zone ho baby jo meri health shi rkhti",
         color: "rose",
         isFlippable: true,
         emoji: "🌸",
       },
       {
         id: "c2",
-        title: "Your Inner Strength",
+        title: "You are my inner strength",
         message:
-          "You handle life with such grace and courage, even when things are difficult.",
+          "Tumare hone se mujhe ak life support milta nikku",
         backMessage:
-          "I am in awe of your strength, and I am always in your corner.",
+          "Tum meri medicate jesi ho , jese hi mujhe hurt milta tum usko heal krdeti",
         color: "blush",
         isFlippable: true,
         emoji: "✨",
@@ -367,9 +368,9 @@ export const content: RootConfig = {
         id: "c3",
         title: "A Little Sincerity",
         message:
-          "I know I am imperfect and stumble sometimes, but my love for you is steadfast.",
+          "I know I am imperfect and dumb sometimes, but my love for you is steadfast baby.",
         backMessage:
-          "Thank you for your patience and for teaching me how to love better.",
+          "hamesa patience rkhne ke liye THANK you baby and for teaching me how to love better.",
         color: "lavender",
         isFlippable: true,
         emoji: "🤍",
@@ -377,7 +378,7 @@ export const content: RootConfig = {
       {
         id: "c4",
         title: "Our Shared Future",
-        message: "Every tomorrow looks brighter because I hope you are in it.",
+        message: "My love Every tomorrow looks brighter because I hope you are in it.",
         backMessage:
           "I look forward to all the quiet breakfasts, laughs, and adventures ahead.",
         color: "peach",
@@ -395,28 +396,28 @@ export const content: RootConfig = {
         id: "m1",
         src: "/photos/20251229_213708.jpg",
         alt: "A sweet memory together",
-        caption: "That unforgettable afternoon",
+        caption: "Hamara sath m snack timeeee sham ka",
         isPolaroid: true,
       },
       {
         id: "m2",
         src: "/photos/20251229_230354.jpg",
         alt: "A quiet golden hour",
-        caption: "Golden hour smiles",
+        caption: "Ranchi m hamara vo movie time",
         isPolaroid: true,
       },
       {
         id: "m3",
         src: "/photos/20250419_112805.jpg",
         alt: "The time we can't forget",
-        caption: "Golden hour smiles",
+        caption: "Bilaspur m hamari night",
         isPolaroid: true,
       },
       {
         id: "m4",
         src: "/photos/20251231_111917.jpg",
         alt: "Our Outfit matching",
-        caption: "Golden hour smiles",
+        caption: "Ranchi m hamara combo",
         isPolaroid: true,
       },
     ],
@@ -424,23 +425,23 @@ export const content: RootConfig = {
       {
         id: "t1",
         date: "[MILESTONE 1]",
-        title: "Where It All Began",
-        description: "The first time we talked and the hours melted away.",
+        title: "Kaha sb start hua...",
+        description: "Mera or tumara FREE FIRE game m milna , #NIKASH",
         emoji: "🌱",
       },
       {
         id: "t2",
         date: "[MILESTONE 2]",
-        title: "Our First Adventure",
+        title: "Then hamari journey together",
         description:
-          "Exploring together and realizing how natural everything felt.",
+          "Our first meetup jamshedpur, our diwali, fir tumara birthday or tumse milne ana etc",
         emoji: "🗺️",
       },
       {
         id: "t3",
         date: "Today & Tomorrow",
         title: "Taking A Step Forward",
-        description: "Learning, loving deeper, and walking hand in hand.",
+        description: "And guess what we are still together no matter what and this is important for us nikku",
         emoji: "🤝",
       },
     ],
@@ -476,27 +477,25 @@ export const content: RootConfig = {
 
   finale: {
     apologyMessage: [
-      "My heart is full of gratitude for you taking the time to walk through this.",
-      "I am truly, deeply sorry for the pain or disappointment I caused.",
-      "You deserve patience, gentleness, and someone who honors your feelings every single day.",
+      "Meri Nikku Mai tumse boht jada pyar krta hu tum mere sath hoti ho tb jese lgta bs yehi chahiye baki sb krluga life m",
+      "I know jaan mene tume boht dukh pahuchaya hai hurt kiya hai I can't forgive myself ever too",
+      "But tume m sure krdu baby nai hoga esa kbhi bhi ab m hamesa tumse heart or mind control rkh ke baat kruga kbhi esa wesa ni boluga kbhi bhi ni , please apne Ash ko last bar maaf krdena pls my nikku...",
+      "Ak tumhi ho jaan jo sirf mera hai , jisse m kuch bhi share kr skta hu, kuch bhi baat kr skta hu, sirf tum ho meri baby",
+      "Tum meri dost, GF, bestfriend sb ho everything",
+      "Mai bs chahta tum khush rho nikku",
+      "I Love you so much nikku",
+      "Your Ash Loves you very much ❤️❤️",
     ],
     promises: [
-      "I promise to listen with an open heart whenever you need to share what hurts.",
-      "I promise to never dismiss your emotions or take your presence for granted.",
-      "I promise to keep showing up and doing the quiet, honest work to be better.",
+      "I promise jb bhi tum merese kuch share krogi m akdm patience se sb smjhuga pura without reacting early or disturbing in between",
+      "I promise kabhi esa kuch ni kruga jisse tum hurt ho nikku mere kaarn (IK bolne ka ni but please sunlo mujhe)",
+      "I promise hamesa tumara sath duga hr life phase , are isi kaarn to bhgwan ne mujhe tumare pas bheja, Han bhgwan ne mujhme thoda defect krdiya mere m hurt krdeta hu but I love you so much from bottom of my heart",
     ],
-    bridgeQuestion: "Can we take a little step forward together?",
+    bridgeQuestion: "Lets take a little step forward together?",
     responseOptions: [
       {
-        id: "time",
-        label: "I need some time",
-        emoji: "⏳",
-        reply:
-          "Take all the time and space you need. There is zero pressure, and my care for you remains constant and patient.",
-      },
-      {
         id: "talk",
-        label: "Let's talk",
+        label: "Let's talk (Adha maaf ki bs (me: 😔))",
         emoji: "☕",
         reply:
           "I would love nothing more. I am ready to listen whenever you feel comfortable.",
@@ -506,7 +505,7 @@ export const content: RootConfig = {
         label: "I forgive you",
         emoji: "🤍",
         reply:
-          "Thank you from the bottom of my heart. I cherish your kindness more than words can say.",
+          "Thank you from the bottom of my heart. I LOve my piggy so muchhhhhh",
       },
     ],
     closingMessage:

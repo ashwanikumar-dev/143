@@ -71,7 +71,7 @@ export const HugInteraction: React.FC = () => {
 
         <div>
           <p className="font-serif text-lg text-plum-700 font-medium">
-            {isCompleted ? 'Warm Hug Delivered ❤️' : 'Hold to Send a Warm Hug'}
+            {isCompleted ? 'Mene Catch krliyaa babyyyyyyy ❤️' : 'Mko Warm hug bhejo upr hold krke'}
           </p>
           <p className="font-sans text-xs text-plum-500 mt-0.5">
             {isCompleted

@@ -174,10 +174,11 @@ export const CatchTheHearts: React.FC = () => {
             <span className="text-5xl animate-bounce">🧺</span>
             <div className="space-y-2">
               <h3 className="font-serif text-2xl text-plum-700 font-medium">
-                Ready to Catch My Love?
+                Chalo dekhte baby mere liye kitna hearts catch krti...
               </h3>
               <p className="font-sans text-sm text-plum-600/90 max-w-sm mx-auto">
-                Use your mouse, touch drag, or keyboard arrow keys (← / →) to move the basket.
+                apne mouse ko drag kro ya keyboard left right use kro to move the basket.
+                <br />
                 Catch golden hearts for bonus love!
               </p>
             </div>

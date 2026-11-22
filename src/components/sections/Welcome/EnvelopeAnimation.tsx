@@ -55,7 +55,7 @@ export const EnvelopeAnimation: React.FC<EnvelopeAnimationProps> = ({
             For {recipientName} 💌
           </span>
           <p className="font-serif text-xs sm:text-sm text-plum-600 leading-relaxed italic max-w-[240px]">
-            &ldquo;Every step forward begins with an honest heart.&rdquo;
+            &ldquo;Life ka har step tumare sath chlna chahta hu&rdquo;
           </p>
           <span className="font-sans text-[10px] text-plum-400 mt-2 uppercase tracking-widest">
             From {senderName}

@@ -89,7 +89,7 @@ export const FinalApology: React.FC = () => {
             {content.finale.bridgeQuestion}
           </h3>
           <p className="font-sans text-xs sm:text-sm text-plum-500 max-w-md mx-auto">
-            Choose what feels most honest and right in your heart. Every choice is respected with equal love.
+            Choose karo jaan niche m se kisi ak option ko 🥺🥺.
           </p>
         </div>
 
